@@ -7,10 +7,10 @@ manage.
 
 Before opening AWS, write answers in your own words:
 
-1. What is a Region? --> 
-2. What is an Availability Zone? -->
-3. What is one thing AWS secures? -->
-4. What is one thing you must secure? -->
+1. What is a Region? --> A Region is a geographic area where AWS has multiple data centers. You choose a region based on factors like latency, compliance, or cost.
+2. What is an Availability Zone? --> An Availability Zone (AZ) is one or more isolated data centers within a Region. Each AZ has independent power, networking, and cooling, so if one AZ fails, others can continue running your applications.
+3. What is one thing AWS secures? --> AWS secures the physical infrastructure, such as data centers, servers, networking hardware, and the virtualization layer.
+4. What is one thing you must secure? --> You must secure your AWS resources, such as IAM users and permissions, your applications, data, and security groups.
 
 
 ## AWS Global Infrastructure
