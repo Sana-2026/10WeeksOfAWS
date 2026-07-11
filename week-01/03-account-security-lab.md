@@ -28,6 +28,20 @@ Deliverables:
 - Screenshot of root MFA enabled.
 - Short note explaining why root user should not be used daily.
 
+- We should not use the AWS root user for daily work because it has unlimited permissions
+- If the root account is accidentally misused or compromised, an attacker could take complete control of your AWS account.
+- Think of the root user as the master key to your entire AWS account.
+
+    + 🔑 It can create or delete any resource.
+    + 👤 It can create or remove IAM users.
+    + 💳 It can change billing and payment information.
+    + 🚫 It can even close the AWS account.
+
+- If you use it every day, even a small mistake—like deleting the wrong resource or clicking a malicious link—can have serious consequences.
+
+  <img width="1360" height="513" alt="MFA" src="https://github.com/user-attachments/assets/fa714b3e-9290-4beb-b8cc-7af8037abc06" />
+
+
 ## Lab 2 - Billing Alert
 
 Steps:
