@@ -1,3 +1,4 @@
+
 # Day 3 - Account Security Lab
 
 Goal: Create a safe AWS account foundation for the next 10 weeks.
@@ -72,3 +73,13 @@ Do not share:
 - MFA QR code
 - Payment details
 - Detailed billing information
+
+  
+<img width="1358" height="592" alt="budget" src="https://github.com/user-attachments/assets/3791e471-8a0a-4ecc-9dc5-9d3f59ee364f" />
+
+
+<img width="1364" height="512" alt="budget-step2" src="https://github.com/user-attachments/assets/845ebff3-77c3-4c54-8675-e7d9b90fe72c" />
+
+<img width="1363" height="539" alt="budget-created" src="https://github.com/user-attachments/assets/e834bd07-74b9-4206-88c8-05522b9d5d52" />
+
+
