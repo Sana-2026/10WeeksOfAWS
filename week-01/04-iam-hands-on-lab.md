@@ -15,6 +15,13 @@ Practice in this order:
 5. Test allowed access.
 6. Test denied access.
 
+<img width="1366" height="620" alt="create-group-1" src="https://github.com/user-attachments/assets/8b4bebce-e304-4190-993d-c50f842fc341" />
+
+<img width="1361" height="528" alt="create-group-2-policy-att" src="https://github.com/user-attachments/assets/33c0c1e1-bec6-489c-a2f2-2c3668cd30fd" />
+
+<img width="1351" height="604" alt="create-grp-read-only-3" src="https://github.com/user-attachments/assets/671579b3-defe-4283-bb27-94a265002463" />
+
+
 ## Lab 1 - S3 Read-Only Access
 
 Create:
