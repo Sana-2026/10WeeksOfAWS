@@ -57,6 +57,22 @@ Deliverables:
 - Screenshot of billing alert or budget alert.
 - Short note explaining why billing should be monitored from Day 1.
 
+  **Steps**
+``
+AWS Console Home
+      ↓
+Search Bar
+      ↓
+Type "Billing"
+      ↓
+Billing and Cost Management
+      ↓
+Left Menu
+      ↓
+Budgets
+
+``
+
 ## If You Get Stuck
 
 - Add a screenshot of where you got stuck.
